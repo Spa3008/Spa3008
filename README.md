@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports especially fottball and golf...
 - 🌱 I’m currently learning computer science and also full stack python and django
 - 💞️ I’m looking to collaborate on nothing currently i want to gain more knowladge
-- 📫 How to reach me on twitter @DadFut or hashnode @spa3008
+- 
 
 <!---
 Spa3008/Spa3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
